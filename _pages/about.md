@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second-year PhD student in theoretical computer science at Cornell University. I am advised by the wonderful [Noah Stephens-Davidowitz](https://noahsd.com/). My current research resides at the intersection of error-correcting codes and post-quantum cryptography, primarily lattice-based systems.
 
-I completed my Bachelors of Science at the University of California, Santa Barbara. There, I had the privilege of being advised by [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/). Together, we employed tools rooted in information theory to tackle issues related to information leakage.
+I completed my Bachelors of Science at the University of California, Santa Barbara. There, I was advised by [Tevfik Bultan](https://sites.cs.ucsb.edu/~bultan/). Together, we employed tools rooted in information theory to tackle issues related to information leakage.
 
 Shoot me an email if you want to talk!
 
