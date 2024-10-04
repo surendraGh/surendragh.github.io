@@ -23,8 +23,7 @@ In submission<br>
 [[Arxiv](https://arxiv.org/abs/2409.07580){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
-<span style="font-size:1.05em;">**The more the merrier! On total coding and lattice problems and the complexity of finding multicollisions
-Contact**</span>  
+<span style="font-size:1.05em;">**The more the merrier! On total coding and lattice problems and the complexity of finding multicollisions**</span>  
 <span style="font-size:0.9em;">
   Huck Bennett,Surendra Ghentiyala, Noah Stephens-Davidowitz<br>
 In submission<br>
