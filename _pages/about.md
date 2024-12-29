@@ -26,7 +26,7 @@ In submission<br>
 <span style="font-size:1.05em;">**The more the merrier! On total coding and lattice problems and the complexity of finding multicollisions**</span>  
 <span style="font-size:0.9em;">
   Huck Bennett,Surendra Ghentiyala, Noah Stephens-Davidowitz<br>
-In submission<br>
+In *ITCS 2025*<br>
 [[ECCC](https://eccc.weizmann.ac.il/report/2024/018/){:style="text-decoration: none"}{:target="_blank"}]<br>
 </span>
 
